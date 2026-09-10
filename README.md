@@ -239,3 +239,6 @@ This repository serves as the official landing page for Hattrick Control. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Hattrick Control today!**
+
+---
+**Last updated:** 2026-09-10 22:53:30 UTC
