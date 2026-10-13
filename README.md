@@ -241,4 +241,4 @@ This repository serves as the official landing page for Hattrick Control. The so
 **Get the most recent version of Hattrick Control today!**
 
 ---
-**Last updated:** 2026-10-13 04:33:17 UTC
+**Last updated:** 2026-10-13 12:19:50 UTC
